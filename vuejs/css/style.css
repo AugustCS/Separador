@@ -1,0 +1,17 @@
+.tainput{
+    min-height: 200px;
+    max-height: 200px;
+}
+.taoutput{
+    min-height: 200px;
+    max-height: 200px;
+}
+body{
+    background-color: #AF1B2A;
+}
+.container{
+    background:white;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
